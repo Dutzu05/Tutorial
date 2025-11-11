@@ -1,2 +1,3 @@
 Line form branch A
 Line from branch B
+first text
